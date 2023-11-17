@@ -1,5 +1,13 @@
 # WebTV
 
+La WebTV est un système embarqué composé d’une Raspberry équipée d’un écran LCD, de 3 capteurs : un capteur de température, un  capteur d'humidité et un anémomètre ainsi qu’une base de données intégrée  qui va permettre d’enregistrer les différentes valeurs des capteurs.
+
+![image](https://github.com/Valamar12/WebTV/assets/144674641/56eefd35-4a02-4a38-b6b3-a228e933109e)
+
+
+Ces WebTV vont permettre aux clients d'une station de ski d’avoir des informations en temps réel sur la température, l’humidité, la vitesse du vent ainsi que la météo actuelle à l'aide de l’utilisation de l’API Météo France. Les skieurs pourront voir également des images issues de caméras de la station à l’aide d’un site Web embarqué qui va afficher toutes les données sur l’écran de la WebTV
+
+
 ## I – Matériel et logiciels requis
 
 Entités matérielles :
