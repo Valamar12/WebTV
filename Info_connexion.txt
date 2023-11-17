@@ -1,0 +1,13 @@
+FTP 
+
+IP_FTP : "10.0.134.14"
+User : "WebTV"
+password : "WebTV"
+Fichier Destination : "Camera"
+
+BDD
+
+IP_BDD : localhost
+user : root
+password : WebTV
+DB : npy
